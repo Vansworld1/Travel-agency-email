@@ -1,0 +1,116 @@
+@import url{'https://fonts.googleapis.com/css?family=Quicksand:400,500,700'};
+
+
+*{
+margin:0;
+border: 0;
+padding: 0;
+}
+
+header{
+width: 100%;
+}
+
+body{
+background-color: #F1F4F4;
+font-family: 'Quicksand',sans-serif;
+font-size: 18px;
+max-width: 800px;
+margin: 0 0 auto;
+padding:2%;
+color:#565859;
+}
+
+#wrapper{
+margin: 0 0auto;
+background: #FFF;
+}
+
+h2{
+letter-spacing: 1%;
+padding-left: 2%;
+font-weight: 500px;
+}
+
+p{
+padding:20px;
+text-align: justify;
+}
+
+img{
+max-width: 100%;
+}
+
+
+
+.logo{
+
+padding-top: 20px;
+max-width:100%px;
+text-align: center;
+background-color:##85C1E9 ;
+
+}
+
+.images{
+
+padding: 50 50 auto;
+max-width: 100%;
+text-align: center;
+t
+
+}
+
+.row{
+  display: flex;
+  padding: 20px;
+}
+
+.column{
+  flex:33.33%
+  margin: auto;
+  margin-top: 20px;
+  margin-left: 10px;
+   padding: 2px;
+
+}
+
+
+.footer{
+padding-top: 5px;
+background-color:#255FC2 ;
+text-align:center;
+height:200px;
+}
+
+.btn{
+padding-top: 5px;
+padding-bottom: 80px;
+float: right;
+border-radius: 8px;
+color: white;
+font-size: 17px;
+background-color:#255FC2 ;
+padding: 8px;
+text-decoration: none;
+}
+.button-holder{
+padding-bottom: 50px;
+padding-right: 30px;
+}
+
+.fa{
+
+  color:white;
+}
+
+div.icons{
+  text-align: center;
+  text-spacing: 5px;
+
+}
+.contact{
+padding: 50 50 auto;
+text-align: center;
+color:  white ;
+}
